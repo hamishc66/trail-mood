@@ -1,0 +1,7 @@
+{
+  "name": "Trail Mood Engine",
+  "description": "A vibe-based hiking companion that translates your emotions and environment into an atmospheric trail experience. No stats, no distances, just the soul of the hike.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
